@@ -12,19 +12,15 @@ I love exploring new tech, tweaking dev environments, and building things at my 
 
 **Languages & Frameworks:**
 
-* PHP
-* Laravel
-* CodeIgniter (CI)
+[![My Skills](https://skillicons.dev/icons?i=react,php,laravel)](https://skillicons.dev)
 
 **Databases:**
 
-* MySQL
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 **Dev Tools:**
 
-* Git
-* Docker
-* DDEV
+[![My Skills](https://skillicons.dev/icons?i=git,docker,ddev)](https://skillicons.dev)
 
 ---
 
