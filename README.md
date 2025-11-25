@@ -1,8 +1,8 @@
-# Hi, I'm Ramadhon (Ryo) 👋 👋
+# Hi, I'm Ryo 👋 
 
 ## 😎 About Me
 
-Hey there! I'm **Ramadhon**, but you can call me **Ryo**. I'm a university student at **Universitas Bina Sarana Informatika** and a chill developer with full **a developer with a relaxed coding vibe**.
+Hey there! I'm **Ramadhoni**, but you can call me **Ryo**. I'm a university student at **Universitas Bina Sarana Informatika** and a chill developer with **a relaxed vibe coding**.
 
 I love exploring new tech, tweaking dev environments, and building things at my own pace. Sometimes you'll find me coding seriously, other times I'm gaming or experimenting with random ideas.
 
@@ -10,17 +10,7 @@ I love exploring new tech, tweaking dev environments, and building things at my 
 
 ## 🧰 Tech Stack & Tools
 
-**Languages & Frameworks:**
-
-[![My Skills](https://skillicons.dev/icons?i=react,php,laravel)](https://skillicons.dev)
-
-**Databases:**
-
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-**Dev Tools:**
-
-[![My Skills](https://skillicons.dev/icons?i=git,docker,ddev)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,php,laravel,mysql,git,docker,linux)](https://skillicons.dev)
 
 ---
 
@@ -28,7 +18,7 @@ I love exploring new tech, tweaking dev environments, and building things at my 
 
 * Casual gamer
 * Tech tinkerer
-* "Coder vibe" college student who likes to experiment
+* "Vibe coding" college student who likes to experiment
 
 ---
 
