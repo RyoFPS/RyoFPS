@@ -43,5 +43,3 @@ I love exploring new tech, tweaking dev environments, and building things at my 
 * **Discord:** (username Discord kamu)
 
 ---
-
-Terima kasih sudah mampir ke profilku! 🚀
