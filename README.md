@@ -2,7 +2,7 @@
 
 ## 😎 About Me
 
-Hey there! I'm **Ramadhoni**, but you can call me **Ryo**. I'm a university student at **Universitas Bina Sarana Informatika** and a chill developer with **a relaxed vibe coding**.
+Hey there! I'm **Ramadhoni**, but you can call me **Ryo**. I'm a university student at **Universitas Bina Sarana Informatika** and a chill developer.
 
 I love exploring new tech, tweaking dev environments, and building things at my own pace. Sometimes you'll find me coding seriously, other times I'm gaming or experimenting with random ideas.
 
