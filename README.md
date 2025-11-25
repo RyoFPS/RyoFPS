@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Ramadhon (Ryo) 👋 👋
 
-<!--
-**RyoFPS/RyoFPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😎 About Me
 
-Here are some ideas to get you started:
+Hey there! I'm **Ramadhon**, but you can call me **Ryo**. I'm a university student at **Universitas Bina Sarana Informatika** and a chill developer with full **a developer with a relaxed coding vibe**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love exploring new tech, tweaking dev environments, and building things at my own pace. Sometimes you'll find me coding seriously, other times I'm gaming or experimenting with random ideas.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+**Languages & Frameworks:**
+
+* PHP
+* Laravel
+* CodeIgniter (CI)
+
+**Databases:**
+
+* MySQL
+
+**Dev Tools:**
+
+* Git
+* Docker
+* DDEV
+
+---
+
+## 🎮 Personal Stuff
+
+* Casual gamer
+* Tech tinkerer
+* "Coder vibe" college student who likes to experiment
+
+---
+
+## 📬 Contact Me
+
+* **LinkedIn:** (isi di sini)
+* **Email:** (isi Gmail kamu di sini)
+* **Discord:** (username Discord kamu)
+
+---
+
+Terima kasih sudah mampir ke profilku! 🚀
