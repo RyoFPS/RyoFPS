@@ -14,13 +14,13 @@ I love exploring new tech, tweaking dev environments, and building things at my 
 
 ---
 
-## 🎮 Personal Stuff
+// ## 🎮 Personal Stuff
 
-* Competitive gamer
-* Tech tinkerer
-* "Vibe coding" college student who likes to experiment
+// * Competitive gamer
+// * Tech tinkerer
+// * "Vibe coding" college student who likes to experiment
 
----
+// ---
 
 ## 📬 Contact Me
 
